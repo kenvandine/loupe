@@ -167,3 +167,4 @@ apps:
     common-id: org.gnome.Loupe
     plugs:
       - process-control
+      - home
